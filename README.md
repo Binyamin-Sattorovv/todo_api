@@ -49,7 +49,7 @@ app/
 ### 1. Клонировать проект
 
 ```bash
-git clone https://github.com/your-username/todo-api.git
+git clone https://github.com/Binyamin-Sattorovv/todo_api.git
 cd todo-api
 ```
 
