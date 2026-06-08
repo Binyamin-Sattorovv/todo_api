@@ -17,7 +17,7 @@ class TaskResponse(BaseModel):
     
     class Config:
         
-        form_attribbutes = True
+        from_attribbutes = True
         
         
 
