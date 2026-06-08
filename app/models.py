@@ -1,5 +1,5 @@
 from sqlalchemy import String, Column, Integer, Boolean
-from mini_projects.todo_api.app.database import Base
+from database import Base
 
 
 class Task(Base):

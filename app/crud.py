@@ -1,6 +1,6 @@
 from sqlalchemy.orm import Session
 
-from mini_projects.todo_api.app.models import Task
+from models import Task
 
 def create_task(db: Session, title: str):
     
